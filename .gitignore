@@ -9,6 +9,7 @@ __pycache__
 CMakeUserPresets.json
 [Cc]ache/
 /[Ii]nstall/
+/3rdParty/
 **/*egg-info/**
 **/*egg-link
 **/[Rr]estricted
